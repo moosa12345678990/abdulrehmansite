@@ -30,10 +30,11 @@ export const portfolioData = {
         { name: 'Brand Strategy' },
       ],
       client: 'Marvisto',
-      projectLink: {
-        title: 'Live Preview',
-        url: '#',
-      },
+     projectLink: {
+  title: 'Live Preview',
+  url: 'https://marvisto.com',
+},
+
       duration: '4 weeks',
       budget: 'Under 1 Lakh',
       content:
@@ -64,7 +65,7 @@ export const portfolioData = {
       client: 'Taiba Store',
       projectLink: {
         title: 'Live Preview',
-        url: '#',
+        url: 'http://www.dukantodoor.com/',
       },
       duration: '3 weeks',
       budget: 'Under 50K',
@@ -96,7 +97,7 @@ export const portfolioData = {
       client: 'Arif Silk Industries',
       projectLink: {
         title: 'Live Preview',
-        url: '#',
+        url: 'https://www.arifsilkindustries.com/',
       },
       duration: '5 weeks',
       budget: 'Under 1 Lakh',
