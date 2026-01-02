@@ -461,7 +461,7 @@ const Audit = () => {
                                     borderRadius: '12px',
                                     border: '1px solid rgba(255,255,255,0.15)',
                                     background: 'rgba(255,255,255,0.07)',
-                                    color: '#fff',
+                                    color: '#000000ff',
                                     fontSize: isMobile ? '1rem' : '1.05rem',
                                     appearance: 'none',
                                     transition: 'all 0.3s ease',
@@ -585,4 +585,4 @@ const Audit = () => {
     );
 };
 
-export default Audit;
+export default Audit;   
