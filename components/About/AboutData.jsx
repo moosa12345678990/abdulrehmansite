@@ -5,9 +5,9 @@ export const aboutData = {
     heroAvatar: HeroAvatar,
     biography:
       "I’m as simple as my designs. I design and develop high-performing web solutions that don’t just look good  they sell.",
-    projectsDone: "2K+ ",
-    yearsOfExperience: "2",
-    worldwideClients: "500+",
+    projectsDone: "50+ ",
+    yearsOfExperience: "6",
+    worldwideClients: "10+",
   },
 
   skills: [
@@ -32,7 +32,7 @@ export const aboutData = {
 
   connect: [
     {
-      url: 'https://www.instagram.com/abdul_rehman_fatani/',
+      url: 'https://www.instagram.com/abdul.rehman511/?utm_source=ig_web_button_share_sheet',
       bootstrapIcon: 'bi bi-instagram',
     },
     {

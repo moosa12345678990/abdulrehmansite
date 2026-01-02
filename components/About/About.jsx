@@ -50,7 +50,7 @@ const About = () => {
                             <h1 className="fw-light display-4 mb-0 line-height-110">{aboutData.mainData.projectsDone}</h1>
                         </div>
                         <div className="col-4 col-lg-12">
-                            <h6 className="sm-heading">Years of Experience</h6>
+                            <h6 className="sm-heading">Months of Experience</h6>
                             <h1 className="fw-light display-4 mb-0 line-height-110">{aboutData.mainData.yearsOfExperience}+</h1>
                         </div>
                         <div className="col-4 col-lg-12">
