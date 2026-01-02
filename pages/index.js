@@ -23,7 +23,7 @@ export default function Home() {
                 {/* Portfolio section */}
                 <Portfolio />
                 {/* Awards section */}
-                <Audit />
+                {/* <Audit /> */}
                 {/* <Awards /> */}
                 {/* Testimonial section */}
                 <Testimonial />
