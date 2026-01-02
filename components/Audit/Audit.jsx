@@ -136,7 +136,7 @@ const Audit = () => {
                     position: 'fixed',
                     top: '20px',
                     right: '20px',
-                    background: '#000000ff',
+                    background: '#000',
                     color: 'white',
                     padding: '1.2rem 1.8rem',
                     borderRadius: '10px',
@@ -369,7 +369,7 @@ const Audit = () => {
                             fontWeight: '800',
                             marginBottom: '1rem',
                             // background: 'linear-gradient(135deg, #10b981 0%, #059669 100%)',
-                            color: "#ffffffff"
+                            color: "#fff"
                             // WebkitBackgroundClip: 'text',
                             // WebkitTextFillColor: 'transparent'
                         }}>
